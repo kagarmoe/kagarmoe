@@ -1,5 +1,12 @@
 [![Kimberly's GitHub stats](https://github-readme-stats.vercel.app/api?username=kagarmoe)](https://github.com/kagarmoe/github-readme-stats)
 
+
+<br><p align="center">Everything here is available under the [Unlicense](https://choosealicense.com/licenses/unlicense/)!<br><br>
+  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/kimberlygarmoe/)
+  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/5ck1H)
+  [![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/kagarmoe)
+</p>
+
 <!--
 **kagarmoe/kagarmoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
