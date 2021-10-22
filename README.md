@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Chef Documentation](https://github.com/chef/chef-web-docs)
 
-- 🌱 I’m currently learning **Protobufs & Buf**
+- 🌱 I’m currently learning **About Game Engines*
 
 - 💬 Ask me about **Improving your docs!**
 
