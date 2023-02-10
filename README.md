@@ -5,7 +5,7 @@
 
 - 🔭 My last job was on the [AWS Documentation]([https://github.com/chef/chef-web-docs](https://docs.aws.amazon.com/))
 
-- 🌱 I’m currently learning **Analytics for unstructured text*
+- 🌱 I’m currently learning **Analytics for unstructured text**
 
 - 💬 Ask me about **Improving your docs!**
 
