@@ -1,0 +1,6 @@
+id: 2414fe40-90f1-4761-a395-76675b668ba6
+name: default
+type: local_encryption
+config:
+  auto_generate: true
+createdAt: '2026-10-16T05:12:46.308Z'
